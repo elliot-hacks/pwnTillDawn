@@ -95,7 +95,6 @@ RHOSTS => 10.150.150.12
 ls
 FLAG1.txt
 snap
-cat FLAG1.txt
-5ee499eb5d0b8e4269b13483e57adaa0b3815f48
+
 
 ***
